@@ -1,12 +1,12 @@
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.OpenApi.Models;
 using ProjetoTarefa.Data;
+using ProjetoTarefa.Services;
 using ProjetoTarefa.Users;
 
 namespace ProjetoTarefa
@@ -32,6 +32,9 @@ namespace ProjetoTarefa
             services.AddDbContext<ProjectTaskContext>(op =>
                 op.UseSqlServer(Configuration.GetConnectionString("ProjectTaskContext")));
             services.AddDefaultIdentity<Client>().AddEntityFrameworkStores<ProjectTaskContext>();
+
+            services.AddScoped<ClientService>();
+            services.AddScoped<TaskListService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
