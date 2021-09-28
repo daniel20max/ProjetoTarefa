@@ -6513,11 +6513,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\_ChallangeBlue\\ProjetoTarefa\\ProjetoTarefa.csproj",
+      "projectUniqueName": "C:\\Users\\Everton\\Desktop\\Matheus\\_ChallangeBlue\\ProjetoTarefa\\ProjetoTarefa.csproj",
       "projectName": "ProjetoTarefa",
-      "projectPath": "C:\\_ChallangeBlue\\ProjetoTarefa\\ProjetoTarefa.csproj",
+      "projectPath": "C:\\Users\\Everton\\Desktop\\Matheus\\_ChallangeBlue\\ProjetoTarefa\\ProjetoTarefa.csproj",
       "packagesPath": "C:\\Users\\Everton\\.nuget\\packages\\",
-      "outputPath": "C:\\_ChallangeBlue\\ProjetoTarefa\\obj\\",
+      "outputPath": "C:\\Users\\Everton\\Desktop\\Matheus\\_ChallangeBlue\\ProjetoTarefa\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Everton\\AppData\\Roaming\\NuGet\\NuGet.Config",

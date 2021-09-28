@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "K2h1rxJq6/pseSnixFwd42X2nFPsRCnX6rmuwqcp5KJfcWvO+HQhVrnmb6pu+a2HIq7LoJS6DTVYI8fhOHSGuw==",
+  "dgSpecHash": "XR8uVCGWNmOnlJOuFObMTvylqXeaebjUYhIMrDjHq41zzESpaXL0Qd02sE38ha9JZvxcFpateTbh8Y+a/pppZg==",
   "success": true,
-  "projectFilePath": "C:\\_ChallangeBlue\\ProjetoTarefa\\ProjetoTarefa.csproj",
+  "projectFilePath": "C:\\Users\\Everton\\Desktop\\Matheus\\_ChallangeBlue\\ProjetoTarefa\\ProjetoTarefa.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Everton\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Everton\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
