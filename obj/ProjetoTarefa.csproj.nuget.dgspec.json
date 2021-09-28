@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Daniel\\source\\repos\\ProjetoTarefa\\ProjetoTarefa.csproj": {}
+    "C:\\Users\\Everton\\Desktop\\Matheus\\_ChallangeBlue\\ProjetoTarefa\\ProjetoTarefa.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Daniel\\source\\repos\\ProjetoTarefa\\ProjetoTarefa.csproj": {
+    "C:\\Users\\Everton\\Desktop\\Matheus\\_ChallangeBlue\\ProjetoTarefa\\ProjetoTarefa.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Daniel\\source\\repos\\ProjetoTarefa\\ProjetoTarefa.csproj",
+        "projectUniqueName": "C:\\Users\\Everton\\Desktop\\Matheus\\_ChallangeBlue\\ProjetoTarefa\\ProjetoTarefa.csproj",
         "projectName": "ProjetoTarefa",
-        "projectPath": "C:\\Users\\Daniel\\source\\repos\\ProjetoTarefa\\ProjetoTarefa.csproj",
-        "packagesPath": "C:\\Users\\Daniel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Daniel\\source\\repos\\ProjetoTarefa\\obj\\",
+        "projectPath": "C:\\Users\\Everton\\Desktop\\Matheus\\_ChallangeBlue\\ProjetoTarefa\\ProjetoTarefa.csproj",
+        "packagesPath": "C:\\Users\\Everton\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Everton\\Desktop\\Matheus\\_ChallangeBlue\\ProjetoTarefa\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Daniel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Everton\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -89,7 +89,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }
