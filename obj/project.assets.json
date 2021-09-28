@@ -6508,19 +6508,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Everton\\.nuget\\packages\\": {}
+    "C:\\Users\\Daniel\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\_ChallangeBlue\\ProjetoTarefa\\ProjetoTarefa.csproj",
+      "projectUniqueName": "C:\\Users\\Daniel\\source\\repos\\ProjetoTarefa\\ProjetoTarefa.csproj",
       "projectName": "ProjetoTarefa",
-      "projectPath": "C:\\_ChallangeBlue\\ProjetoTarefa\\ProjetoTarefa.csproj",
-      "packagesPath": "C:\\Users\\Everton\\.nuget\\packages\\",
-      "outputPath": "C:\\_ChallangeBlue\\ProjetoTarefa\\obj\\",
+      "projectPath": "C:\\Users\\Daniel\\source\\repos\\ProjetoTarefa\\ProjetoTarefa.csproj",
+      "packagesPath": "C:\\Users\\Daniel\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Daniel\\source\\repos\\ProjetoTarefa\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Everton\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Daniel\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6599,7 +6599,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

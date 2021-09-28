@@ -31,7 +31,6 @@ C:\Users\Daniel\source\repos\ProjetoTarefa\bin\Debug\net5.0\Microsoft.IdentityMo
 C:\Users\Daniel\source\repos\ProjetoTarefa\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\Daniel\source\repos\ProjetoTarefa\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\Daniel\source\repos\ProjetoTarefa\bin\Debug\net5.0\Microsoft.OpenApi.dll
-C:\Users\Daniel\source\repos\ProjetoTarefa\bin\Debug\net5.0\Newtonsoft.Json.dll
 C:\Users\Daniel\source\repos\ProjetoTarefa\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\Daniel\source\repos\ProjetoTarefa\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\Daniel\source\repos\ProjetoTarefa\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -138,3 +137,4 @@ C:\_ChallangeBlue\ProjetoTarefa\obj\Debug\net5.0\ref\ProjetoTarefa.dll
 C:\_ChallangeBlue\ProjetoTarefa\obj\Debug\net5.0\ProjetoTarefa.pdb
 C:\_ChallangeBlue\ProjetoTarefa\obj\Debug\net5.0\ProjetoTarefa.genruntimeconfig.cache
 C:\_ChallangeBlue\ProjetoTarefa\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Daniel\source\repos\ProjetoTarefa\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
