@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 namespace ProjetoTarefa.Controllers
 {
     [ApiController]
-    [Route("[controller]")]
+    [Route("api/v1/[controller]")]
     public class ClientController : Controller
     {
         ClientService _service;
@@ -20,7 +20,7 @@ namespace ProjetoTarefa.Controllers
         }
 
         [HttpGet]
-        [Route("GetClientByEmail/{Email}")]
+        [Route("GetClientByEmail")]
 
         public IActionResult GetClient(string email)
         {
@@ -33,7 +33,7 @@ namespace ProjetoTarefa.Controllers
             return Ok(_service.DeleteClient(email));
         }
         [HttpPatch]
-        [Route("UpdateClientByEmail/{Email}")]
+        [Route("UpdateClientByEmail")]
         public IActionResult UpdateClient([FromBody]Client client)
         {
             return Ok(_service.UpdateClient(client));

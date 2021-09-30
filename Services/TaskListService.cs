@@ -19,6 +19,7 @@ namespace ProjetoTarefa.Services
         {
             try
             {
+
                 var exists = _context.TaskLists.FirstOrDefault(t => t.Name == task.Name) != null;
                 if (task == null || exists) return false;
 
@@ -63,6 +64,7 @@ namespace ProjetoTarefa.Services
             }
             catch { return false; }
         }
+        public List<TaskList> GetTaskAll() => _context.TaskLists.ToList();
         public List<TaskList> GetTaskOrdebyPriority() => _context.TaskLists.OrderBy(task => task.Priority).ToList();
         public List<TaskList> GetTaskToday() => _context.TaskLists.OrderBy(task => task.Time == DateTime.Now).ToList();
         public List<TaskList> GetTaskDateTime(DateTime date) => _context.TaskLists.OrderBy(task => task.Time == date).ToList();
