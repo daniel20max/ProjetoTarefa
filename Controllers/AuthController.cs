@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace ProjetoTarefa.Controllers
 {
-    [Route("api/v1/[controller]"), ApiController]
+    [Route("api/[controller]"), ApiController]
     public class AuthController : ControllerBase
     {
         AuthService _authService;

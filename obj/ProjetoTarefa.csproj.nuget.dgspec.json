@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\_dev\\ProjetoTarefa\\ProjetoTarefa.csproj": {}
   },
   "projects": {
@@ -12,6 +13,19 @@
         "projectPath": "C:\\_dev\\ProjetoTarefa\\ProjetoTarefa.csproj",
         "packagesPath": "C:\\Users\\Everton\\.nuget\\packages\\",
         "outputPath": "C:\\_dev\\ProjetoTarefa\\obj\\",
+=======
+    "C:\\Users\\Everton\\Desktop\\Matheus\\_ChallangeBlue\\ProjetoTarefa\\ProjetoTarefa.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Everton\\Desktop\\Matheus\\_ChallangeBlue\\ProjetoTarefa\\ProjetoTarefa.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Everton\\Desktop\\Matheus\\_ChallangeBlue\\ProjetoTarefa\\ProjetoTarefa.csproj",
+        "projectName": "ProjetoTarefa",
+        "projectPath": "C:\\Users\\Everton\\Desktop\\Matheus\\_ChallangeBlue\\ProjetoTarefa\\ProjetoTarefa.csproj",
+        "packagesPath": "C:\\Users\\Everton\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Everton\\Desktop\\Matheus\\_ChallangeBlue\\ProjetoTarefa\\obj\\",
+>>>>>>> d9423cc65763fc483c512b10eaaac7916dcafad9
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
